@@ -1,4 +1,4 @@
-# EX NO:1 (A) Display operator precedence in the infix expression.
+# EX NO:1(A) Display operator precedence in the infix expression.
 ## DATE: 
 ## AIM:
 To write a C program to find and display the priority of the operator in the given Postfix expression
