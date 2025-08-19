@@ -19,8 +19,8 @@ the loop ends.
 ```
 /*
 Program to evaluate the given prefix expression
-Developed by: AKSHARA C
-RegisterNumber: 212223220004 
+Developed by: YUVA SREE M
+RegisterNumber: 212223230251
 */
 ```
 ```
